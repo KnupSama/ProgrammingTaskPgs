@@ -1,0 +1,56 @@
+﻿@model List<ProgrammingTask.Entity.AspNetUser>
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>title</h2>
+
+<table class="table table-bordered table-striped table-hover">
+    <thead>
+    <tr>
+        <th>User Mail</th>
+        <th>User Name</th>
+        <th>Doswiadczenie w programowaniu</th>
+        <th>Ulubiona technologia</th>
+        <th>Rola</th>
+        <th>Edytuj</th>
+        <th>Usun</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Email</td>
+            <td>@user.UserName</td>
+            @{
+                if (user.UserDetail != null)
+                {
+                    <td>@user.UserDetail.Experience</td>
+                    <td>@user.UserDetail.Technology</td>
+                }
+                else
+                {
+                    <td></td>
+                    <td></td>
+                }
+                var userRole = user.AspNetRoles.FirstOrDefault();
+                if (userRole != null)
+                {
+                    <td>@userRole.Name</td>
+                }
+                else
+                {
+                    <td></td>
+                }
+            }
+            <td>
+                @Html.ActionLink("Edytuj usera", "EditUser", "User", new {userId = user.Id}, new {@class = "btn btn-success"})
+            </td>
+            <td>
+                @Html.ActionLink("Usun usera", "DeleteUser", "User", new {userId = user.Id}, new {@class = "btn btn-danger"})
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

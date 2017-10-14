@@ -1,0 +1,357 @@
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\ApplicationInsights.config
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.exe
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.exe.config
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.rsp
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.exe
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.exe.config
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.rsp
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.AppContext.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Console.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.exe
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.exe.config
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.rsp
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.dll.config
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.pdb
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Antlr3.Runtime.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\EntityFramework.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\EntityFramework.SqlServer.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Web.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Newtonsoft.Json.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Owin.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Helpers.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Mvc.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Optimization.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Razor.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\WebGrease.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Helpers.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Mvc.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Optimization.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.Razor.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Antlr3.Runtime.pdb
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Newtonsoft.Json.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\EntityFramework.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\EntityFramework.SqlServer.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Web.xml
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.csprojResolveAssemblyReference.cache
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.csproj.CoreCompileInputs.cache
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.dll
+C:\Users\Pieczar\Documents\Visual Studio 2017\Projects\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.pdb
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\ApplicationInsights.config
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.exe
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.exe.config
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.rsp
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.exe
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.exe.config
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.rsp
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.AppContext.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Collections.Immutable.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Console.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.Process.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.Compression.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.Pipes.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.AccessControl.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Claims.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Threading.Thread.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.ValueTuple.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XPath.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.exe
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.exe.config
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.rsp
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\VBCSCompiler.exe
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\roslyn\VBCSCompiler.exe.config
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.dll.config
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.pdb
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Antlr3.Runtime.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\EntityFramework.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\EntityFramework.SqlServer.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.DependencyCollector.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Web.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.WindowsServer.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.ApplicationInsights.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Google.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Web.Infrastructure.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Newtonsoft.Json.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Owin.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Helpers.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Mvc.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Optimization.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Razor.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Deployment.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Razor.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\WebGrease.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Helpers.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Mvc.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Optimization.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.Razor.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Deployment.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Razor.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Antlr3.Runtime.pdb
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Newtonsoft.Json.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\EntityFramework.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\EntityFramework.SqlServer.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Google.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.ApplicationInsights.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.DependencyCollector.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.WindowsServer.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Web.xml
+C:\Pendrive\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.csprojResolveAssemblyReference.cache
+C:\Pendrive\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.csproj.CoreCompileInputs.cache
+C:\Pendrive\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.dll
+C:\Pendrive\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.pdb
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\ApplicationInsights.config
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.exe
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.exe.config
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\csc.rsp
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.exe
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.exe.config
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\csi.rsp
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.AppContext.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Collections.Immutable.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Console.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.Process.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.Compression.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.IO.Pipes.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Reflection.Metadata.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.AccessControl.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Claims.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Security.Principal.Windows.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Threading.Thread.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.ValueTuple.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XmlDocument.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XPath.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.exe
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.exe.config
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\vbc.rsp
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\VBCSCompiler.exe
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\roslyn\VBCSCompiler.exe.config
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.dll.config
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\ProgrammingTask.pdb
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Antlr3.Runtime.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\EntityFramework.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\EntityFramework.SqlServer.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Agent.Intercept.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.DependencyCollector.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Web.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.WindowsServer.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.ApplicationInsights.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Core.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Cookies.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Facebook.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Google.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.OAuth.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Twitter.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Web.Infrastructure.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Newtonsoft.Json.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Owin.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Helpers.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Mvc.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Optimization.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Razor.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Deployment.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Razor.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\WebGrease.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Helpers.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Mvc.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Optimization.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.Razor.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Deployment.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\System.Web.WebPages.Razor.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Antlr3.Runtime.pdb
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Newtonsoft.Json.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\EntityFramework.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\EntityFramework.SqlServer.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Core.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Facebook.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Cookies.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.OAuth.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Google.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.Twitter.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.ApplicationInsights.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.DependencyCollector.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.WindowsServer.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\bin\Microsoft.AI.Web.xml
+C:\pgs\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.csprojResolveAssemblyReference.cache
+C:\pgs\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.csproj.CoreCompileInputs.cache
+C:\pgs\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.dll
+C:\pgs\ProgrammingTask\ProgrammingTask\obj\Debug\ProgrammingTask.pdb

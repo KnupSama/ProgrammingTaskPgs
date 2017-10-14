@@ -1,0 +1,27 @@
+﻿@model ProgrammingTask.ViewModels.UserDetailsViewModel
+@{
+    ViewBag.Title = "AddUserDetails";
+}
+
+<h2>AddUserDetails</h2>
+
+@using (Html.BeginForm("AddUserDetails", "User"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(x => x.Technologies)
+        @Html.DropDownListFor(x => x.Technology, new SelectList(Model.Technologies, "Name", "Name"), "", new { @class = "form-control" })
+       
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Experience)
+        @Html.TextBoxFor(x => x.Experience, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.Experience)
+    </div>
+    <button type="submit" class="btn btn-primary">Go on!</button>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
