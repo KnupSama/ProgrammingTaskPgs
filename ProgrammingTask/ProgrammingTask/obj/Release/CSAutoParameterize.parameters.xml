@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Parametry połączenia używane w pliku web.config przez aplikację w celu uzyskiwania dostępu do bazy danych." defaultValue="Data Source=pgsprogrammingtask.database.windows.net;Initial Catalog=ProgrammingTaskPGS;persist security info=True;user id=knup;password=PGSProgrammingTask231" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\pgs\\ProgrammingTask\\ProgrammingTask\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ProgrammingTaskEntities-Web.config Connection String" description="ProgrammingTaskEntities Parametry połączenia używane w pliku web.config przez aplikację w celu uzyskiwania dostępu do bazy danych." defaultValue="metadata=res://*/;provider=System.Data.SqlClient;provider connection string=&quot;data source=pgsprogrammingtask.database.windows.net;initial catalog=ProgrammingTaskPGS;persist security info=True;user id=knup;password=PGSProgrammingTask231;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\pgs\\ProgrammingTask\\ProgrammingTask\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ProgrammingTaskEntities']/@connectionString" />
+  </parameter>
+</parameters>
